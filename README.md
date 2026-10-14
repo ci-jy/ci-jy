@@ -8,6 +8,8 @@ Applied Mathematics (Scientific Machine Learning) at the University of Waterloo,
 
 **Projects**
 - [commercial-credit-risk-engine](https://github.com/ci-jy/commercial-credit-risk-engine): credit memos from SEC XBRL filings; the PD scorecard beats Altman Z''.
+- [e23-model-monitor](https://github.com/ci-jy/e23-model-monitor): drift alarms for credit models under OSFI E-23, false alarms cut from about 70% to about 5% per period.
+- [ga-financed-emissions-workbook](https://github.com/ci-jy/ga-financed-emissions-workbook): an Excel and Power BI workbook of PCAF financed emissions and carbon-price stress from StatCan data.
 - [ttc-delay-analysis](https://github.com/ci-jy/ttc-delay-analysis): TTC subway delays since 2014, DuckDB SQL KPIs and a Power BI report.
 - [fleet-telemetry-ingest](https://github.com/ci-jy/fleet-telemetry-ingest): MQTT vehicle telemetry into trips, no lost messages under fault injection.
 - [legacy-c-code-retrieval](https://github.com/ci-jy/legacy-c-code-retrieval): code search over undocumented C for LLM agents, served over MCP.
